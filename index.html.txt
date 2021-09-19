@@ -6,9 +6,8 @@
 
 <body>
 	<h2>Teste de git revert</h2>
-	<p>Luis Felipe de Moraes Uliana</p> <br>
-	<p>Miguel cara de pastel</p> <br>
-	<p>Zé ruela</p>
+	<p>Luis Felipe de Moraes Uliana</p>
+	<p>Miguel cara de pastel</p>
 
 </body>
 
