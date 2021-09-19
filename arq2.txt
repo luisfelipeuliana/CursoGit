@@ -1,1 +1,2 @@
 Segunto arquivo -arq2
+Editando o segundo arquivo para o commit três
