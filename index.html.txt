@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Teste de git revert</title>
+</head>
+
+<body>
+	<h3>Teste de git revert</h3>
+	<p>Luis Felipe de Moraes Uliana</p>
+	<p>Miguel cara de pastel</p>
+
+</body>
+
+</html>
